@@ -12,6 +12,9 @@ date: 2026-06-04
 
 ## Maintenance
 
-- Oil: Motul 7100 15W-50
-- Oil Filter: K&N KN-155
-- Air Filter: K&N KT-1211
+| Component  | Part              |
+| ---------- | ----------------- |
+| Oil        | Motul 7100 15W-50 |
+| Oil Filter | K&N KN-155        |
+| Air Filter | K&N KT-1211       |
+| Chain      | DID 520VX3 112    |

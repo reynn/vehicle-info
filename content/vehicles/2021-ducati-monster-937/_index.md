@@ -14,9 +14,12 @@ date: 2026-06-04
 
 ## Maintenance
 
-- Oil: Motul 300V 15W-50
-- Oil Filter: K&N KN-153
-- Air Filter: K&N DU-9321
+| Component  | Part              |
+| ---------- | ----------------- |
+| Oil        | Motul 300V 15W-50 |
+| Oil Filter | K&N KN-153        |
+| Air Filter | K&N DU-9321       |
+| Chain      | DID 520VX3 116    |
 
 ## Torque Specs
 
