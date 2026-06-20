@@ -25,8 +25,8 @@ date: 2026-06-19
 | Oil Filter          |    K&N KN-303     |
 | Air Filter          |    K&N KA-4018    |
 | Chain               |  DID 520VX3 106   |
-| Front Tire          |     110/70R17     |
-| Rear Tire           |     150/60R17     |
+| Front Tire          |   110/70R17 54H   |
+| Rear Tire           |   150/60R17 66H   |
 | Front Tire Pressure |      28 psi       |
 | Rear Tire Pressure  |      32 psi       |
 | Front Sprocket      |        14         |
@@ -36,10 +36,9 @@ date: 2026-06-19
 
 | Component                 | Torque (Nm) | Torque (ft-lbs) | Tool  | Part Number |
 | ------------------------- | :---------: | :-------------: | :---: | ----------- |
-| Front Wheel Spindle       |             |                 |       |             |
 | Front Axle Nut            |     64      |       47        |       |             |
-| Front Axle Pinch Bolts    |             |                 |       |             |
-| Front Brake Caliper Bolts |             |                 |       |             |
+| Front Axle Pinch Bolts    |     20      |       15        |       |             |
+| Front Brake Caliper Bolts |     34      |       25        |       |             |
 | Rear Axle Nut             |     100     |       74        |       |             |
 | Rear Sprocket Nuts        |     59      |       44        |       |             |
 | Oil Filter                |     18      |       13        |       |             |

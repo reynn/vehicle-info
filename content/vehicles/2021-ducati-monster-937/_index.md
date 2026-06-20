@@ -13,7 +13,7 @@ date: 2026-06-04
 - Capacity: 937cc
 - HP: 111 hp
 - Torque: 69 lb-ft
-- Weight: 366 lbs (dry)
+- Weight: 414 lbs (wet)
 - Seat Height: 32.8"
 - Fuel Capacity: 3.7L
 
@@ -25,8 +25,8 @@ date: 2026-06-04
 | Oil Filter          |    K&N KN-153     |
 | Air Filter          |    K&N DU-9321    |
 | Chain               |  DID 520VX3 116   |
-| Front Tire          |     120/70R17     |
-| Rear Tire           |     180/60R17     |
+| Front Tire          |    120/70 ZR17    |
+| Rear Tire           |    180/55 ZR17    |
 | Front Tire Pressure |      28 psi       |
 | Rear Tire Pressure  |      32 psi       |
 | Front Sprocket      |        15         |
