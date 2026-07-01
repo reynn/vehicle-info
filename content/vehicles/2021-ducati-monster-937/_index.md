@@ -19,18 +19,19 @@ date: 2026-06-04
 
 ## Maintenance
 
-| Component           |       Part        |
-| ------------------- | :---------------: |
-| Oil                 | Motul 300V 15W-50 |
-| Oil Filter          |    K&N KN-153     |
-| Air Filter          |    K&N DU-9321    |
-| Chain               |  DID 520VX3 116   |
-| Front Tire          |    120/70 ZR17    |
-| Rear Tire           |    180/55 ZR17    |
-| Front Tire Pressure |      28 psi       |
-| Rear Tire Pressure  |      32 psi       |
-| Front Sprocket      |        15         |
-| Rear Sprocket       |        43         |
+| Component           |           Part           |
+| ------------------- | :----------------------: |
+| Oil                 |    Motul 300V 15W-50     |
+| Oil Filter          |        K&N KN-153        |
+| Air Filter          |       K&N DU-9321        |
+| Chain               |      DID 520VX3 116      |
+| Stock Tires         | Pirelli Diablo Rosso III |
+| Front Tire          |       120/70 ZR17        |
+| Rear Tire           |       180/55 ZR17        |
+| Front Tire Pressure |          28 psi          |
+| Rear Tire Pressure  |          32 psi          |
+| Front Sprocket      |            15            |
+| Rear Sprocket       |            43            |
 
 ## Torque Specs
 

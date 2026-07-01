@@ -4,6 +4,8 @@ draft: false
 date: 2026-06-04
 ---
 
+![KTM RC390](./IMG20260319132503.jpg)
+
 ## General Specs
 
 - Emission: EURO5
@@ -17,15 +19,16 @@ date: 2026-06-04
 
 ## Maintenance
 
-| Component           |       Part        |
-| ------------------- | :---------------: |
-| Oil                 | Motul 7100 15W-50 |
-| Oil Filter          |    K&N KN-155     |
-| Air Filter          |    K&N KT-1211    |
-| Chain               |  DID 520VX3 112   |
-| Front Tire          |     110/70R17     |
-| Rear Tire           |     150/60R17     |
-| Front Tire Pressure |      28 psi       |
-| Rear Tire Pressure  |      32 psi       |
-| Front Sprocket      |        15         |
-| Rear Sprocket       |        43         |
+| Component           |        Part         |
+| ------------------- | :-----------------: |
+| Oil                 |  Motul 7100 15W-50  |
+| Oil Filter          |     K&N KN-155      |
+| Air Filter          |     K&N KT-1211     |
+| Chain               |   DID 520VX3 112    |
+| Stock Tires         | Metzeler Sportec M5 |
+| Front Tire          |      110/70R17      |
+| Rear Tire           |      150/60R17      |
+| Front Tire Pressure |       28 psi        |
+| Rear Tire Pressure  |       32 psi        |
+| Front Sprocket      |         15          |
+| Rear Sprocket       |         43          |
