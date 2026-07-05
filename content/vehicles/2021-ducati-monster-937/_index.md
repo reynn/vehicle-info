@@ -35,7 +35,7 @@ date: 2026-06-04
 
 ## Torque Specs
 
-[Full Specs](/vehicle-info/2021-ducati-monster-937-full-specs)
+[Full Specs](/vehicle-info/vehicles/2021-ducati-monster-937-full-specs/)
 
 | Component                 | Torque (Nm) | Torque (ft-lbs) |      Tool       | Part Number           |
 | ------------------------- | :---------: | :-------------: | :-------------: | --------------------- |
