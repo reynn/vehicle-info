@@ -44,7 +44,4 @@ date: 2026-06-04
 | Front Axle Pinch Bolts    |    10.0     |       7.4       |    6mm Allen    |                       |
 | Front Brake Caliper Bolts |    45.0     |      33.2       | 10mm Hex Socket | 77915111B             |
 | Rear Axle Nut             |    145.0    |      106.9      | 25mm Hex Socket | 74810232B & 75011251A |
-|                           |             |                 |                 |                       |
-|                           |             |                 |                 |                       |
-|                           |             |                 |                 |                       |
-|                           |             |                 |                 |                       |
+| Frame Slider Frame Bolts  |    90.0     |      66.4       |   12mm Allen    | 77918291AA            |
