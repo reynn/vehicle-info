@@ -14,6 +14,11 @@ date: 2026-06-04
 
 ## Maintenance
 
-- Oil: Pennzoil Ultra Platinum Full Synthetic 5W-30
-- Oil Filter: K&N HP-1004
-- Air Filter: -- washable built on the intake
+| Component           |                     Part                     |
+| ------------------- | :------------------------------------------: |
+| Oil                 | Pennzoil Ultra Platinum Full Synthetic 5W-30 |
+| Oil Filter          |                 K&N HP-1004                  |
+| Air Filter          |                     ---                      |
+| Tires               |                  225/40R18                   |
+| Front Tire Pressure |                    35 psi                    |
+| Rear Tire Pressure  |                    36 psi                    |
