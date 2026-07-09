@@ -19,19 +19,19 @@ date: 2026-06-19
 
 ## Maintenance
 
-| Component           |          Part           |
-| ------------------- | :---------------------: |
-| Oil                 |    Motul 5100 10W-40    |
-| Oil Filter          |       K&N KN-303        |
-| Air Filter          |       K&N KA-4018       |
-| Chain               |     DID 520VX3 106      |
-| Stock Tires         | Dunlop Sportmax GPR-300 |
-| Front Tire          |      110/70R17 54H      |
-| Rear Tire           |      150/60R17 66H      |
-| Front Tire Pressure |         28 psi          |
-| Rear Tire Pressure  |         32 psi          |
-| Front Sprocket      |           14            |
-| Rear Sprocket       |           41            |
+| Component           |             Part             |
+| ------------------- | :--------------------------: |
+| Oil                 |      Motul 5100 10W-40       |
+| Oil Filter          |  K&N KN-303 or HiFlo HF303   |
+| Air Filter          | K&N KA-4018 or HiFlo HFA2406 |
+| Chain               |        DID 520VX3 106        |
+| Stock Tires         |   Dunlop Sportmax GPR-300    |
+| Front Tire          |        110/70R17 54H         |
+| Rear Tire           |        150/60R17 66H         |
+| Front Tire Pressure |            28 psi            |
+| Rear Tire Pressure  |            32 psi            |
+| Front Sprocket      |              14              |
+| Rear Sprocket       |              41              |
 
 ## Torque Specs
 
