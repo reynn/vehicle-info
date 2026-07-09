@@ -19,16 +19,23 @@ date: 2026-06-04
 
 ## Maintenance
 
-| Component           |        Part         |
-| ------------------- | :-----------------: |
-| Oil                 |  Motul 7100 15W-50  |
-| Oil Filter          |     K&N KN-155      |
-| Air Filter          |     K&N KT-1211     |
-| Chain               |   DID 520VX3 112    |
-| Stock Tires         | Metzeler Sportec M5 |
-| Front Tire          |      110/70R17      |
-| Rear Tire           |      150/60R17      |
-| Front Tire Pressure |       28 psi        |
-| Rear Tire Pressure  |       32 psi        |
-| Front Sprocket      |         15          |
-| Rear Sprocket       |         43          |
+| Component           |           Part            |
+| ------------------- | :-----------------------: |
+| Oil                 |     Motul 7100 15W-50     |
+| Oil Filter          | K&N KN-155 or HiFlo HF155 |
+| Air Filter          |        K&N KT-1211        |
+| Chain               |      DID 520VX3 112       |
+| Stock Tires         |    Metzeler Sportec M5    |
+| Front Tire          |         110/70R17         |
+| Rear Tire           |         150/60R17         |
+| Front Tire Pressure |          28 psi           |
+| Rear Tire Pressure  |          32 psi           |
+| Front Sprocket      |            15             |
+| Rear Sprocket       |            43             |
+
+## Torque Specs
+
+| Component                | Torque (Nm) | Torque (ft-lbs) |   Tool    | Part Number |
+| ------------------------ | :---------: | :-------------: | :-------: | ----------- |
+| Front Fork Upper Triple  |     15      |      11.1       | 6mm Allen |             |
+| Front Fork Bottom Triple |     12      |       8.9       | 6mm Allen |             |
