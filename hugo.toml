@@ -1,5 +1,5 @@
 baseURL = '/'
-title = 'Vehicle Hub'
+title = 'Info Hub'
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -40,3 +40,8 @@ style = "github-dark"
     name = "Vehicles"
     url = "/vehicles/"
     weight = 2
+
+  [[menus.main]]
+    name = "Recipes"
+    url = "/recipes/"
+    weight = 3
