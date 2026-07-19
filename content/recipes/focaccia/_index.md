@@ -11,6 +11,7 @@ date: 2026-07-11
 - 10g msg
 - 3g thyme
 - 8g pepper
+- 1 packet instant yeast (active dry use 2.25 tsp + .25 cup warm water + .25 tsp sugar and wait til it foams)
 - 455g water (use slightly less water with active dry yeast)
 
 ## Instructions
